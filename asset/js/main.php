@@ -1,0 +1,3 @@
+$myName = "emmanuel"
+
+echo $myName

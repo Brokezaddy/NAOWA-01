@@ -1,0 +1,26 @@
+*{
+   margin: 0;
+}
+nav{
+   background-color: rgba(0, 0, 0, 0.269);
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+ul{
+   display: flex;
+   list-style: none;
+}
+li{
+   padding: 20px ;
+   font-size: large;
+}
+.logo{
+   height: 70px;
+}
+nav div button{
+   padding: 10px 30px;
+   border: 1px solid;
+   border-radius: 5pc;
+}
+  
