@@ -107,9 +107,7 @@ nav div a:hover{
          padding: 20px ;
          font-size: large;
       }
-      .logo{
-         height: 70px;
-      }
+     
       .aboutNAOWA{
          padding: auto;
          margin: 0;
@@ -117,6 +115,9 @@ nav div a:hover{
   
 }
 @media screen and (max-width:800px) {
+ h1{
+   font-size:25px;
+ }
    ul{
       display: none;
    }
