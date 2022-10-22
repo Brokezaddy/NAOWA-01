@@ -36,7 +36,18 @@ nav div a:hover{
    color: black;
    background-color: white;
 }
-
+.menu{   
+   position:absolute;
+   right: 10px;
+   display: none;
+}
+.menu-item{
+   height: 3px;
+   margin-bottom: 5px;
+   border-radius: 4px;
+   width: 25px;
+   background-color: white;
+}
 .downloadpropsal{
    padding: 30px 40px;
    justify-content: space-around;
@@ -113,6 +124,9 @@ nav div a:hover{
       .aboutNAOWA{
          padding: auto;
          margin: 0;
+      }
+      .menu{
+         display: block;
       }
   
 }
