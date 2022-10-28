@@ -168,8 +168,9 @@ nav div a:hover{
 
 /* login */
 .loginbody{
-   background-color: black;
-   
+   /* background-image: url('../media/image/NAOWA-LOGO.png');
+   background-repeat: none;
+   background-size: cover; */
 }
 form{
    height: auto;
