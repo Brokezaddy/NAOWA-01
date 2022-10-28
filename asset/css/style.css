@@ -165,3 +165,58 @@ nav div a:hover{
    padding-bottom: 15px;
 }
 }
+
+/* login */
+.loginbody{
+   background-color: black;
+   
+}
+form{
+   height: auto;
+   background-color: white;
+   text-align: center;
+   width: auto;
+   margin-top: 100px;
+   margin-bottom: 50px;
+   padding: 30px;
+   border-radius: 5px;
+   border: 1px solid red;
+
+}
+h1, h2, h3, h4{
+   margin-bottom: 10px;
+}
+   .loginsection{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+.loginbtn  {
+      background-color:red;
+      color:white;
+      border-radius:8px;
+      border:1px solid red;
+      padding:7px;
+      text-align:center;
+      width: 408px;
+     
+   }
+   .forgot{
+      text-align: right;
+      display: block;
+      margin-bottom:10px ;
+   }
+   .jg{
+      margin-bottom: 30px;
+   }
+   .inputfield{
+      border-radius:8px;
+      border:1px solid red;
+       padding:7px;
+       width: 390px;
+       margin-bottom:30px ;
+   }
+   a{
+      text-decoration: none;
+   }
+  
